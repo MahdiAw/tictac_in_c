@@ -5,4 +5,4 @@
 gcc main.c -o xogame 
 ./xogame
 ```
-
+![Alt text](image.png)
