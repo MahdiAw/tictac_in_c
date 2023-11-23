@@ -1,6 +1,6 @@
 # IMPLEMENTING XO/TICTAC game in C 
 
-# USAGE 
+## USAGE 
 ```bash
 gcc main.c -o xogame 
 ./xogame
